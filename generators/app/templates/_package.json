@@ -2,7 +2,6 @@
   "name": "<%= appSlug %>",
   "version": "0.1.0",
   "dependencies": {
-    "redux": "^1.0.0"
   },
   "scripts": {
     "start": "DEBUG=true node server.js",
